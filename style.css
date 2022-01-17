@@ -180,7 +180,7 @@ img
 .green
 {
     color: green;
-    font-size: 65px;
+    font-size: 45px;
 }
 
 .purple
@@ -192,18 +192,18 @@ img
 .yellow
 {
     color: yellow;
-    font-size: 35px;
+    font-size: 45px;
 }
 
 .red
 {
     color: red;
-    font-size: 35px;
+    font-size: 45px;
 }
 
 body p
 {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 /* Page passions */
