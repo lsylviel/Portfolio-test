@@ -20,16 +20,6 @@ background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
     padding-top: 70px;
 }
 
-#container_left
-{
-    
-    width: 34%;
-    display: inline-block;
-	vertical-align: top;
-    text-align: center;
-    padding-top: 70px;
-}
-
 #container_left img
 {
     width: 500px;
@@ -37,3 +27,9 @@ background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
     border-radius: 100px;
 }
 
+#container_left h3 a
+{
+    font-size: 50px;
+    text-decoration: none; /*le menu ne sera plus souligné*/
+    color: peru;
+}
