@@ -51,7 +51,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 #container_right h1
 {
     font-size: 100px;
-    color: peru;
+    color: cadetblue;
 }
 
 #container_right h2.argument
