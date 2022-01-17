@@ -141,14 +141,14 @@ footer a
 
 img
 {
-    width: 250px;
+    width: 350px;
     height: 150px;
 }
 
 #Employabilité
 {
     position: absolute;
-    top: 0%;
+    top: 10%;
     left: 40%;
     text-align: center;
 }
