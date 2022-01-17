@@ -152,5 +152,36 @@ img
     left: 40%;
     text-align: center;
 }
+
+#Motivation
+{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    text-align: center;
+}
+
+#Comportement
+{
+    position: absolute;
+    top: 65%;
+    left: 15%;
+    text-align: center;
+}
+
+#Compétence
+{
+    position: absolute;
+    top: 65%;
+    left: 60%;
+    text-align: center;
+}
+
+.green
+{
+    color: green;
+    font-size: 65px;
+}
+
 /* Page passions */
 
