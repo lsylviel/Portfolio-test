@@ -99,7 +99,7 @@ nav li
 nav a
 {
     font-size: 20px;
-    color: #ffffff;
+    color: peru;
     padding-bottom: 3px;
     text-decoration: none; /*le menu ne sera plus souligné*/
 }
