@@ -65,3 +65,21 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     text-decoration: none; /*le menu ne sera plus souligné*/
     color: cadetblue;
 }
+
+#container_right h2 a:hover /* survol de la souris */
+{
+    color: peru;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Navigation */
+
+nav
+{
+	position: fixed; top: 0px; left: 0px;
+	height: 50px;
+	width: 100%;
+}
+
