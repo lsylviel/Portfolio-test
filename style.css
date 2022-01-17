@@ -4,6 +4,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     background-attachment: fixed; /* Le fond restera fixe */
 	background-repeat: no-repeat; /* Le fond ne sera pas répété */
 	background-position: top right; /* Le fond sera placé en haut à droite */
+    background-size: cover; /*prend toute la dimension de la page sans perte de qualité*/
     padding-top: 49px;
     margin: auto;
     font-family: 'Trebuchet MS', Arial, sans-serif;
