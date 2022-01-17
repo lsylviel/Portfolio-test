@@ -31,12 +31,12 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 {
     font-size: 45px;
     text-decoration: none; /*le menu ne sera plus souligné*/
-    color: peru;
+    color: #ffffff;
 }
 
 #container_left a:hover /* survol de la souris */
 {
-    color: cadetblue;
+    color: peru;
 }
 
 #container_right
@@ -138,3 +138,4 @@ footer a
 ------------------------------------------------------------------------------------------------------------------------------*/
 
 /* Page passions */
+
