@@ -1,6 +1,6 @@
 body /* On travaille sur la balise body, donc sur TOUTE la page */
 {
-    background-image: url("img/futurist.jpg");
+    background-image: url("img/space.jpg");
     background-attachment: fixed; /* Le fond restera fixe */
 	background-repeat: no-repeat; /* Le fond ne sera pas répété */
 	background-position: top right; /* Le fond sera placé en haut à droite */
@@ -83,3 +83,10 @@ nav
 	width: 100%;
 }
 
+nav ul
+{
+	list-style-type: none; /* enlève l'image ronde servant de puce */
+    display: flex; /* menu en ligne côte à côte */ 
+    justify-content: center;
+    align-items: flex-end; /*alignés à la fin*/
+}
