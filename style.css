@@ -319,3 +319,113 @@ img.w
 ------------------------------------------------------------------------------------------------------------------------------*/
 
 /* Page passions */
+
+
+/*------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Page créations */
+
+
+/*------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Page contact */
+
+p a
+{
+    font-size: 20px;
+    color:cadetblue;
+    padding-bottom: 3px;
+    text-decoration: none; /*le menu ne sera plus souligné*/
+}
+
+p a:hover /* survol de la souris */
+{
+    color: peru;
+}
+
+p
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+p.mail
+{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+}   
+
+h1
+{
+    color: peru;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+
+body h1 a
+{
+    display: flex;
+    justify-content: flex-end;
+}
+/*------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Page contact */
+
+p a
+{
+    font-size: 20px;
+    color:cadetblue;
+    padding-bottom: 3px;
+    text-decoration: none; /*le menu ne sera plus souligné*/
+}
+
+p a:hover /* survol de la souris */
+{
+    color: peru;
+}
+
+p
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+p.mail
+{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+}   
+
+h1
+{
+    color: peru;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+p
+{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+
+body h1 a
+{
+    display: flex;
+    justify-content: flex-end;
+}
