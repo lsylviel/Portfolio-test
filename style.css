@@ -183,11 +183,6 @@ img
     text-align: center;
 }
 
-#Employabilite #Motivation #Comportement #Compétence
-{
-
-}
-
 .green
 {
     color: green;
@@ -228,5 +223,88 @@ h1
     font-size: 45px;
 }
 
-/* Page passions */
+h2
+{
+    color: darkslateblue;
+    font-size: 50px;
+    padding-left: 80px;
+}
 
+h3
+{
+    color: #d54c3f;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    padding-left: 150px;
+}
+
+
+h4
+{
+    color: royalblue;
+    font-size: 50px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 150px;
+}
+
+h5
+{
+    color: green;
+    font-size: 52px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 350px;
+}
+
+h6
+{
+    color: palevioletred;
+    font-size: 57px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 250px;
+}
+
+img.ps
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+}
+  
+img.ai
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 18%;
+    left: 70%;
+}
+
+img.id
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+img.w
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Page passions */
