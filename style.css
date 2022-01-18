@@ -58,6 +58,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 {
     color: #ffffff;
     font-size: 30px;
+    text-align: center;
 }
 
 #container_right a
