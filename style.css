@@ -150,14 +150,14 @@ img
     width: 350px;
     height: 150px;
     position: absolute;
-    top: 20%;
+    top: 10%;
     left: 10%;
 }
 
 #Employabilité
 {
     position: absolute;
-    top: 10%;
+    top: 20%;
     left: 40%;
     text-align: center;
 }
