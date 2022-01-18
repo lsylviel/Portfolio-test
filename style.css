@@ -12,7 +12,6 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 
 #container_left
 {
-    
     width: 34%;
     display: inline-block;
 	vertical-align: top;
@@ -57,7 +56,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
 #container_right h2.argument
 {
     color: #ffffff;
-    font-size: 30px;
+    font-size: 25px;
     text-align: left;
 }
 
