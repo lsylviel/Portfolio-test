@@ -48,7 +48,7 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     padding-top: 30px;
 }
 
-#container_right h1
+#container_right h1 a
 {
     font-size: 90px;
     color: cadetblue;
