@@ -67,6 +67,11 @@ body /* On travaille sur la balise body, donc sur TOUTE la page */
     color: cadetblue;
 }
 
+#container_right h1 a:hover /* survol de la souris */
+{
+    color: peru;
+}
+
 #container_right h2 a:hover /* survol de la souris */
 {
     color: peru;
