@@ -149,6 +149,9 @@ img
 {
     width: 350px;
     height: 150px;
+    position: absolute;
+    top: 20%;
+    left: 10%;
 }
 
 #Employabilité
@@ -181,6 +184,11 @@ img
     top: 65%;
     left: 60%;
     text-align: center;
+}
+
+#Employabilite #Motivation #Comportement #Compétence
+{
+
 }
 
 .green
