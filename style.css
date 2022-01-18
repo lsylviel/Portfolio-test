@@ -150,39 +150,39 @@ img
     width: 350px;
     height: 150px;
     position: absolute;
-    top: 10%;
-    left: 10%;
+    top: 20%;
+    left: 40%;
 }
 
 #Employabilité
 {
     position: absolute;
-    top: 20%;
-    left: 40%;
+    top: 10%;
+    left: 10%;
     text-align: center;
 }
 
 #Motivation
 {
     position: absolute;
-    top: 35%;
-    left: 40%;
+    top: 45%;
+    left: 50%;
     text-align: center;
 }
 
 #Comportement
 {
     position: absolute;
-    top: 20%;
-    left: 10%;
+    top: 70%;
+    left: 20%;
     text-align: center;
 }
 
 #Compétence
 {
     position: absolute;
-    top: 20%;
-    left: 70%;
+    top: 70%;
+    left: 20%;
     text-align: center;
 }
 
